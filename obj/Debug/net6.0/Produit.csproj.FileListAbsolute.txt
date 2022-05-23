@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\Calculatrice\bin\Debug\net6.0\Produit.exe
+C:\Users\user\Desktop\Calculatrice\bin\Debug\net6.0\Produit.deps.json
+C:\Users\user\Desktop\Calculatrice\bin\Debug\net6.0\Produit.runtimeconfig.json
+C:\Users\user\Desktop\Calculatrice\bin\Debug\net6.0\Produit.dll
+C:\Users\user\Desktop\Calculatrice\bin\Debug\net6.0\Produit.pdb
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.AssemblyInfo.cs
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.dll
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\refint\Produit.dll
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.pdb
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\Produit.genruntimeconfig.cache
+C:\Users\user\Desktop\Calculatrice\obj\Debug\net6.0\ref\Produit.dll
+C:\Users\user\Desktop\Gestion de stock\bin\Debug\net6.0\Produit.exe
+C:\Users\user\Desktop\Gestion de stock\bin\Debug\net6.0\Produit.deps.json
+C:\Users\user\Desktop\Gestion de stock\bin\Debug\net6.0\Produit.runtimeconfig.json
+C:\Users\user\Desktop\Gestion de stock\bin\Debug\net6.0\Produit.dll
+C:\Users\user\Desktop\Gestion de stock\bin\Debug\net6.0\Produit.pdb
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.AssemblyInfo.cs
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.dll
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\refint\Produit.dll
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.pdb
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\Produit.genruntimeconfig.cache
+C:\Users\user\Desktop\Gestion de stock\obj\Debug\net6.0\ref\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\bin\Debug\net6.0\Produit.exe
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\bin\Debug\net6.0\Produit.deps.json
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\bin\Debug\net6.0\Produit.runtimeconfig.json
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\bin\Debug\net6.0\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\bin\Debug\net6.0\Produit.pdb
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.csproj.AssemblyReference.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.AssemblyInfoInputs.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.AssemblyInfo.cs
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\refint\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.pdb
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\Produit.genruntimeconfig.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\Gestion de stock-1\Gestion de stock\obj\Debug\net6.0\ref\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\bin\Debug\net6.0\Produit.exe
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\bin\Debug\net6.0\Produit.deps.json
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\bin\Debug\net6.0\Produit.runtimeconfig.json
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\bin\Debug\net6.0\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\bin\Debug\net6.0\Produit.pdb
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.csproj.AssemblyReference.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.AssemblyInfoInputs.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.AssemblyInfo.cs
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\refint\Produit.dll
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.pdb
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\Produit.genruntimeconfig.cache
+C:\Users\Lion\Desktop\Nouveau dossier\cours\programmation C#\GestionStocks\obj\Debug\net6.0\ref\Produit.dll
